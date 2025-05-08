@@ -3,6 +3,10 @@
 </p>
 <h1 align="center">FSAA</h1>
 
+<p align="center">
+  Full Scene Anti-Aliasing (FSAA) Takes Multiple Colour & Depth Samples at Slightly Different Locations Within Each Pixel, Instead of Just One, During The Rendering Process, Affecting Every Pixel, Every Texture, & all Geometry in the Image
+</p>
+
 ## Comparison
 
 | No Anti-Aliasing                                                                | Anti-Aliasing                                                                 | Full Screen Anti-Aliasing                                                          |
